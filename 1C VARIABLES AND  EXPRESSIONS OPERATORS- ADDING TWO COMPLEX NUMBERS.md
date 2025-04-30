@@ -35,7 +35,8 @@ print(f"The sum is {real_sum} + {imag_sum}i")
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/d0497719-0cd2-4eb6-a3ea-9c6dc9499423)
+![image](https://github.com/user-attachments/assets/b8992291-a4a7-4672-8eed-e304289cf783)
+
 
 
 
